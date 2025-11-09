@@ -1,4 +1,4 @@
-# 🧮 Assignment 3 — Understanding Algorithm Efficiency and Scalability
+# 🧮 Assignment 3 - Understanding Algorithm Efficiency and Scalability
 
 ## 📘 Overview
 This project explores and compares the efficiency and scalability of two core algorithmic techniques:
